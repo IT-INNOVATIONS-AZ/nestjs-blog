@@ -22,4 +22,5 @@ npm install
 npm start:dev
 ```
 
+7. To check api documentation go to [swagger(`http://localhost:8000/api#/`)] url
 

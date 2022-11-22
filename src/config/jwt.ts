@@ -1,6 +1,6 @@
 export default {
-  secretOrPrivateKey: process.env.JWT_SECRET,
+  secretOrPrivateKey: '1111111',
   signOptions: {
-    expiresIn: process.env.JWT_EXPIRES,
+    expiresIn: '1d',
   },
 };
